@@ -1,0 +1,13 @@
+diff --git a/program.cpp b/program.cpp
+index 1faee1c..314cb73 100644
+--- a/program.cpp
++++ b/program.cpp
+@@ -3,7 +3,7 @@
+ 
+ 
+ int main() {
+-    std::cout << "hello world" << std::endl;
++    std::cout << "hello world and good world" << std::endl;
+ 
+     return 0;
+ }
