@@ -5,3 +5,5 @@ a/new_file.txt
 test_from_temp - 복사본.txt
 new_file - 복사본.txt
 .vs
+
+*.bak
